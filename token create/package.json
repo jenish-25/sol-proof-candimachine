@@ -1,0 +1,22 @@
+{
+  "name": "spl-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spl-token",
+    "solana"
+  ],
+  "author": "gyanlakshmi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.95.1",
+    "bip39": "^3.1.0",
+    "ed25519-hd-key": "^1.3.0"
+  }
+}
